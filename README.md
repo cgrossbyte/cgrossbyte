@@ -26,7 +26,7 @@ Claude Code CLI · Spec-Driven Development · OpenAI API
 
 | Client | Role | Stack |
 |--------|------|-------|
-| **[IaS Ideas & Solutions](https://ias-solutions.de)** | Frontend Developer | Vue.js · TypeScript · Nuxt.js |
+| **[IaS Ideas & Solutions](https://www.ideas-solutions.net)** | Frontend Developer | Vue.js · TypeScript · Nuxt.js |
 | **[auteon](https://auteon.de)** | Frontend Developer | Vue.js · TypeScript · Tailwind CSS |
 | **[ART-DECOR Open Tools](https://art-decor.org)** | Frontend Developer | Vue.js · Vuetify · React.js |
 
