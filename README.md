@@ -1,6 +1,6 @@
 # Hey, I'm Christopher 👋
 
-Freelance Fullstack Developer from Hamburg — building things as **[Grossbyte](https://grossbyte.io)** since 2012.
+Freelance Fullstack Developer from Hamburg — building things as **[GrossByte](https://grossbyte.io)** since 2012.
 
 I've been writing code since 2005 — from complex payment systems in the gaming industry to web apps and platforms across every sector. I work remotely, on an hourly basis, solo or as a team extension. AI makes me faster and more productive, but the craft behind it stays mine.
 
