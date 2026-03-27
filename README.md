@@ -9,7 +9,7 @@ I've been writing code since 2005 — from complex payment systems in the gaming
 ## 🛠 Tech Stack
 
 **Primary**
-Node.js · TypeScript · Vue.js · Nuxt 3 · AdonisJS · Tailwind CSS
+Node.js · TypeScript · Vue.js · Nuxt · AdonisJS · Tailwind CSS
 
 **Secondary**
 PHP · Laravel · MySQL · PostgreSQL · Ionic · Capacitor · Docker · AWS
@@ -26,7 +26,7 @@ Claude Code CLI · Spec-Driven Development · OpenAI API
 
 | Client | Role | Stack |
 |--------|------|-------|
-| **[IaS Ideas & Solutions](https://www.ideas-solutions.net)** | Frontend Developer | Vue.js · TypeScript · Nuxt.js |
+| **[IaS Ideas & Solutions](https://www.ideas-solutions.net)** | Frontend Developer | Vue.js · TypeScript · Nuxt |
 | **[auteon](https://auteon.de)** | Frontend Developer | Vue.js · TypeScript · Tailwind CSS |
 | **[ART-DECOR Open Tools](https://art-decor.org)** | Frontend Developer | Vue.js · Vuetify · React.js |
 
@@ -35,7 +35,7 @@ Claude Code CLI · Spec-Driven Development · OpenAI API
 ## 🚀 Own Projects
 
 **Zutato** — Food tracking & community platform  
-Monorepo with Nuxt 3 admin, AdonisJS backend and Flutter mobile app.  
+Monorepo with Nuxt admin, AdonisJS backend and Flutter mobile app.  
 Features: food diary, recipe forking (GitHub-style), gamification, smart estimation for micronutrients.
 
 **Migrena** — Minimalist migraine tracker for iOS  
